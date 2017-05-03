@@ -1,4 +1,4 @@
-# ELEC3885 Github Repository
+# Daniel Gibbons - Sopftware Development and Modelling
 
 
 
