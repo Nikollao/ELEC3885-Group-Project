@@ -4,19 +4,19 @@
 
 ## C/C++ Code - written on the mbed platform.
 
-#### Linear Actuator <br />
+#### Linear Actuator
     ACTUATOR.h  
     ACTUATOR.cpp  
-#### Coil <br />
+#### Coil
     Coil.h  
     Coil.cpp  
-#### GP2Y0A51SK0F Distance Sensor <br />
+#### GP2Y0A51SK0F Distance Sensor
     GP2Y0A51SK0F.h  
     GP2Y0A51SK0F.cpp  
-#### 28BYJ-48 Stepper Motor <br />
+#### 28BYJ-48 Stepper Motor
     STEPPER.h  
     STEPPER.cpp  
-#### TMP102 Temperature Sensor <br />
+#### TMP102 Temperature Sensor
     TMP102.h  
     TMP102.cpp  
 
