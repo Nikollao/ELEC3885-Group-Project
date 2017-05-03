@@ -28,8 +28,11 @@
 
 ## MATLAB Code
 
-  COMSOL_Drug_Release_Modelling.m <br />
-  Magnetic_Flux_Density_Comparison.m <br />
+#### Drug Release - Modelling and Experimental Results
+    COMSOL_Drug_Release_Modelling.m
+   
+#### Drug Release - Modelling and Experimental Results
+    Magnetic_Flux_Density_Comparison.m
 
 
 
