@@ -31,7 +31,7 @@
 #### Drug Release - Modelling and Experimental Results
     COMSOL_Drug_Release_Modelling.m
    
-#### Drug Release - Modelling and Experimental Results
+#### Magnetic Flux Density - Modelling and Experimental Results
     Magnetic_Flux_Density_Comparison.m
 
 
