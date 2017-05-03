@@ -5,24 +5,24 @@
 ## C/C++ Code - written on the mbed platform.
 
 #### Linear Actuator <br />
-    ACTUATOR.h <br />
-    ACTUATOR.cpp <br />
+    ACTUATOR.h  
+    ACTUATOR.cpp  
 #### Coil <br />
-    Coil.h <br />
-    Coil.cpp <br />
+    Coil.h  
+    Coil.cpp  
 #### GP2Y0A51SK0F Distance Sensor <br />
-    GP2Y0A51SK0F.h <br />
-    GP2Y0A51SK0F.cpp <br />
+    GP2Y0A51SK0F.h  
+    GP2Y0A51SK0F.cpp  
 #### 28BYJ-48 Stepper Motor <br />
-    STEPPER.h <br />
-    STEPPER.cpp <br />
+    STEPPER.h  
+    STEPPER.cpp  
 #### TMP102 Temperature Sensor <br />
-    TMP102.h <br />
-    TMP102.cpp <br />
+    TMP102.h  
+    TMP102.cpp  
 
 #### MCR Program
-    main.h <br />
-    main.cpp <br />
+    main.h  
+    main.cpp  
 
 
 
