@@ -20,7 +20,7 @@ All C/C++ code was written on the mbed platform.
     TMP102.h <br />
     TMP102.cpp <br />
 
-#### C/C++ MCR Program
+#### MCR Program
     main.h <br />
     main.cpp <br />
 
