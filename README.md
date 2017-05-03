@@ -1,8 +1,8 @@
 # ELEC3885 Github Repository
-All C/C++ code was written on the mbed platform.
 
 
-## C/C++ Code
+
+## C/C++ Code - written on the mbed platform.
 
 #### Linear Actuator <br />
     ACTUATOR.h <br />
@@ -23,6 +23,7 @@ All C/C++ code was written on the mbed platform.
 #### MCR Program
     main.h <br />
     main.cpp <br />
+
 
 
 ## MATLAB Code
